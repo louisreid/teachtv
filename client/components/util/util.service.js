@@ -59,7 +59,7 @@ function UtilService($window) {
   return Util;
 }
 
-angular.module('angularFullstackGruntTestApp.util')
+angular.module('teachtvApp.util')
   .factory('Util', UtilService);
 
 })();

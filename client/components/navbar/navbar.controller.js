@@ -17,5 +17,5 @@ class NavbarController {
   }
 }
 
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .controller('NavbarController', NavbarController);

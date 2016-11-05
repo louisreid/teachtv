@@ -26,7 +26,7 @@ function authInterceptor($rootScope, $q, $cookies, $injector, Util) {
   };
 }
 
-angular.module('angularFullstackGruntTestApp.auth')
+angular.module('teachtvApp.auth')
   .factory('authInterceptor', authInterceptor);
 
 })();

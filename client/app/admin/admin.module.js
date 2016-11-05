@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp.admin', [
-  'angularFullstackGruntTestApp.auth',
+angular.module('teachtvApp.admin', [
+  'teachtvApp.auth',
   'ui.router'
 ]);

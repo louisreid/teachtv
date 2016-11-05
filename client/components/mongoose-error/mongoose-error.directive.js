@@ -3,7 +3,7 @@
 /**
  * Removes server error when user updates input
  */
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .directive('mongooseError', function() {
     return {
       restrict: 'A',

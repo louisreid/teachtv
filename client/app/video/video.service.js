@@ -1,3 +1,8 @@
 'use script';
 
-// angular.module('a')
+angular.module('teachtvApp')
+	.factory('VideoService', ['$resource', function($resource){
+		return $resource('/api/videos/:id',{
+			id: '@id'	
+		});
+	}])

@@ -25,5 +25,5 @@ class SettingsController {
   }
 }
 
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .controller('SettingsController', SettingsController);

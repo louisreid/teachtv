@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp.admin')
+angular.module('teachtvApp.admin')
   .config(function($stateProvider) {
     $stateProvider
       .state('admin', {

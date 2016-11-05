@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp.util', []);
+angular.module('teachtvApp.util', []);

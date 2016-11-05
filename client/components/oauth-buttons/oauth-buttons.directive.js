@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .directive('oauthButtons', function() {
     return {
       templateUrl: 'components/oauth-buttons/oauth-buttons.html',

@@ -14,7 +14,7 @@ class AdminController {
   }
 }
 
-angular.module('angularFullstackGruntTestApp.admin')
+angular.module('teachtvApp.admin')
   .controller('AdminController', AdminController);
 
 })();

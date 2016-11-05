@@ -1,8 +1,11 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp')
-  .controller('VideoCtrl', function ($scope) {
-  	VideoService.save($scope.newVideo,function(video){
-  		console.log(video)
-  	})
+angular.module('teachtvApp')
+  .controller('VideoCtrl', function ($scope, VideoService) {
+  	$scope.createVideo = function (){
+  		console.log($scope.newVideo);
+	  	VideoService.save($scope.newVideo,function(video){
+	  		console.log(video)
+	  	})
+  	}
   });

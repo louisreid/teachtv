@@ -21,7 +21,7 @@ function UserResource($resource) {
   });
 }
 
-angular.module('angularFullstackGruntTestApp.auth')
+angular.module('teachtvApp.auth')
   .factory('User', UserResource);
 
 })();

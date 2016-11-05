@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp.auth', [
-  'angularFullstackGruntTestApp.constants',
-  'angularFullstackGruntTestApp.util',
+angular.module('teachtvApp.auth', [
+  'teachtvApp.constants',
+  'teachtvApp.util',
   'ngCookies',
   'ui.router'
 ])

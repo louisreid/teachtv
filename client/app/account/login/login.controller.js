@@ -29,5 +29,5 @@ class LoginController {
   }
 }
 
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .controller('LoginController', LoginController);

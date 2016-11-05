@@ -3,7 +3,7 @@
 describe('Controller: VideoCtrl', function () {
 
   // load the controller's module
-  beforeEach(module('angularFullstackGruntTestApp'));
+  beforeEach(module('teachtvApp'));
 
   var VideoCtrl, scope;
 

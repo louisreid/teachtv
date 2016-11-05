@@ -183,7 +183,7 @@ function AuthService($location, $http, $cookies, $q, appConfig, Util, User) {
   return Auth;
 }
 
-angular.module('angularFullstackGruntTestApp.auth')
+angular.module('teachtvApp.auth')
   .factory('Auth', AuthService);
 
 })();

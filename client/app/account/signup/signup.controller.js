@@ -39,5 +39,5 @@ class SignupController {
   }
 }
 
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .controller('SignupController', SignupController);

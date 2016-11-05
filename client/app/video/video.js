@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .config(function ($stateProvider) {
     $stateProvider
       .state('video', {

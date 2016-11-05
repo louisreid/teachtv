@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('angularFullstackGruntTestApp')
+angular.module('teachtvApp')
   .directive('footer', function() {
     return {
       templateUrl: 'components/footer/footer.html',
