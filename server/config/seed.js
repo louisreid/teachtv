@@ -6,6 +6,19 @@
 'use strict';
 import Thing from '../api/thing/thing.model';
 import User from '../api/user/user.model';
+import Video from '../api/video/video.model';
+
+Video.find({}).removeAsync()
+  .then(() => {
+    Video.create({
+      youtubeid: 'se4cgYFaVas'
+    }, {
+      youtubeid: 'ZblSqpMD61M'
+    }, {
+      youtubeid: 'IXKGnyk9ee0'
+    });
+  });
+
 
 Thing.find({}).removeAsync()
   .then(() => {
