@@ -17,6 +17,8 @@ mongoose.connection.on('error', function(err) {
   process.exit(-1);
 });
 
+console.log("THIS IS APPPPP.JSS");
+
 // Populate databases with sample data
 if (config.seedDB) { require('./config/seed'); }
 

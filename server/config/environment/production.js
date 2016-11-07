@@ -21,5 +21,9 @@ module.exports = {
           process.env.OPENSHIFT_APP_NAME ||
           // 'mongodb://localhost/angularfullstackgrunttest'
           'mongodb://heroku_84b5v556:jmf3dccel34iupdk3l0a6i93g9@ds145667.mlab.com:45667/heroku_84b5v556'
-  }
+  },
+
+  // Seed database on startup
+  seedDB: true
+
 };

@@ -4,5 +4,15 @@
 			form.form-inline
 				.form-group
 					label(for="videoID").sr-only YouTube ID
-					input(ng-model="newVideo.id" placeholder="YouTube ID e.g. se4cgYFaVas").form-control#videoID
+					input(ng-model="newVideo.youtubeid" placeholder="YouTube ID e.g. se4cgYFaVas").form-control#videoID
 				button(ng-click="createVideo()").btn.btn-success Add Video
+			hr
+			md-list
+					md-list-item.md-3-line(ng-click='goToVideo(video)', ng-repeat='video in videos')
+						img.md-avatar(ng-src='{{video.youtubeObject.snippet.thumbnails.default.url}}', alt='{{video.youtubeObject.snippet.title}}')
+						.md-list-item-text(layout='column')
+							h3.media-heading {{video.youtubeObject.snippet.title}}
+							h4  - {{video.youtubeObject.snippet.channelTitle}}
+							p Views: {{video.youtubeObject.statistics.viewCount}}
+						md-button.md-secondary(ng-click='deleteVideo(video)') Delete
+	

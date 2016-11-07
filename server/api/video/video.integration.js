@@ -3,40 +3,40 @@
 var app = require('../..');
 import request from 'supertest';
 
-var newThing;
+var newVideo;
 
-describe('Thing API:', function() {
+describe('Video API:', function() {
 
-  describe('GET /api/things', function() {
-    var things;
+  describe('GET /api/videos', function() {
+    var videos;
 
     beforeEach(function(done) {
       request(app)
-        .get('/api/things')
+        .get('/api/videos')
         .expect(200)
         .expect('Content-Type', /json/)
         .end((err, res) => {
           if (err) {
             return done(err);
           }
-          things = res.body;
+          videos = res.body;
           done();
         });
     });
 
     it('should respond with JSON array', function() {
-      things.should.be.instanceOf(Array);
+      videos.should.be.instanceOf(Array);
     });
 
   });
 
-  describe('POST /api/things', function() {
+  describe('POST /api/videos', function() {
     beforeEach(function(done) {
       request(app)
-        .post('/api/things')
+        .post('/api/videos')
         .send({
-          name: 'New Thing',
-          info: 'This is the brand new thing!!!'
+          name: 'New Video',
+          info: 'This is the brand new video!!!'
         })
         .expect(201)
         .expect('Content-Type', /json/)
@@ -44,55 +44,55 @@ describe('Thing API:', function() {
           if (err) {
             return done(err);
           }
-          newThing = res.body;
+          newVideo = res.body;
           done();
         });
     });
 
-    it('should respond with the newly created thing', function() {
-      newThing.name.should.equal('New Thing');
-      newThing.info.should.equal('This is the brand new thing!!!');
+    it('should respond with the newly created video', function() {
+      newVideo.name.should.equal('New Video');
+      newVideo.info.should.equal('This is the brand new video!!!');
     });
 
   });
 
-  describe('GET /api/things/:id', function() {
-    var thing;
+  describe('GET /api/videos/:id', function() {
+    var video;
 
     beforeEach(function(done) {
       request(app)
-        .get('/api/things/' + newThing._id)
+        .get('/api/videos/' + newVideo._id)
         .expect(200)
         .expect('Content-Type', /json/)
         .end((err, res) => {
           if (err) {
             return done(err);
           }
-          thing = res.body;
+          video = res.body;
           done();
         });
     });
 
     afterEach(function() {
-      thing = {};
+      video = {};
     });
 
-    it('should respond with the requested thing', function() {
-      thing.name.should.equal('New Thing');
-      thing.info.should.equal('This is the brand new thing!!!');
+    it('should respond with the requested video', function() {
+      video.name.should.equal('New Video');
+      video.info.should.equal('This is the brand new video!!!');
     });
 
   });
 
-  describe('PUT /api/things/:id', function() {
-    var updatedThing;
+  describe('PUT /api/videos/:id', function() {
+    var updatedVideo;
 
     beforeEach(function(done) {
       request(app)
-        .put('/api/things/' + newThing._id)
+        .put('/api/videos/' + newVideo._id)
         .send({
-          name: 'Updated Thing',
-          info: 'This is the updated thing!!!'
+          name: 'Updated Video',
+          info: 'This is the updated video!!!'
         })
         .expect(200)
         .expect('Content-Type', /json/)
@@ -100,27 +100,27 @@ describe('Thing API:', function() {
           if (err) {
             return done(err);
           }
-          updatedThing = res.body;
+          updatedVideo = res.body;
           done();
         });
     });
 
     afterEach(function() {
-      updatedThing = {};
+      updatedVideo = {};
     });
 
-    it('should respond with the updated thing', function() {
-      updatedThing.name.should.equal('Updated Thing');
-      updatedThing.info.should.equal('This is the updated thing!!!');
+    it('should respond with the updated video', function() {
+      updatedVideo.name.should.equal('Updated Video');
+      updatedVideo.info.should.equal('This is the updated video!!!');
     });
 
   });
 
-  describe('DELETE /api/things/:id', function() {
+  describe('DELETE /api/videos/:id', function() {
 
     it('should respond with 204 on successful removal', function(done) {
       request(app)
-        .delete('/api/things/' + newThing._id)
+        .delete('/api/videos/' + newVideo._id)
         .expect(204)
         .end((err, res) => {
           if (err) {
@@ -130,9 +130,9 @@ describe('Thing API:', function() {
         });
     });
 
-    it('should respond with 404 when thing does not exist', function(done) {
+    it('should respond with 404 when video does not exist', function(done) {
       request(app)
-        .delete('/api/things/' + newThing._id)
+        .delete('/api/videos/' + newVideo._id)
         .expect(404)
         .end((err, res) => {
           if (err) {
