@@ -1,4 +1,42 @@
-.container
+div(layout='column', layout-align='top center')
+	p
+		| The left sidenav will 'lock open' on a medium (=960px wide) device.
+	div
+		md-button.md-primary(ng-click='toggleLeft()', hide-gt-md='')
+			| Toggle left
+div(flex='')
+
+//- div(layout="column" style="height:500px;" ng-cloak)
+	section(layout="row" flex)
+		md-sidenav(md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4").md-sidenav-left
+			md-toolbar.md-theme-indigo
+				h1.md-toolbar-tools Sidenav Left
+			md-content(layout-padding)
+				md-button(ng-click="close()" hide-gt-md).md-primary
+					Close Sidenav Left
+				p(hide show-gt-md)
+					| This sidenav is locked open on your device. To go back to the default behavior,
+					| narrow your display.
+	md-content(flex layout-padding)
+		| Hello World
+		//- div(ng-cloak)
+			md-content
+				md-tabs(md-dynamic-height md-border-bottom)
+					md-tab(label="one")
+						md-content.md-padding
+							h1.md-display-2 Tab One
+							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.
+					md-tab(label="two")
+						md-content.md-padding
+							h1.md-display-2 Tab Two
+							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.
+					md-tab(label="three")
+						md-content.md-padding
+							h1.md-display-2 Tab Three
+							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.
+
+
+//- .container
 	.row
 		.col-lg-12
 			form.form-inline

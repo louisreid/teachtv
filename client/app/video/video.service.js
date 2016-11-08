@@ -1,11 +1,21 @@
 'use script';
 
 angular.module('teachtvApp')
-  .factory('VideoService', ['$resource', function($resource) {
-    return $resource('/api/videos/:id', {
-      id: '@id'
-    });
-  }])
+
+.factory('VideoService', ['$resource', function($resource) {
+  return $resource('/api/videos/:id', {
+    id: '@id'
+  });
+}])
+
+.service('LoadStaticData', function($http) {
+  return function(response) {
+    var APIurl = '/mock/mock.json';
+    // var APIurl = "https://sheetsu.com/apis/v1.0/ea0f0bff4949/username/" + username;
+    $http.get(APIurl)
+      .then(response);
+  };
+})
 
 .service('LoadVideos', function($http, extractID) {
   return function(videoIds, callback, isID) {

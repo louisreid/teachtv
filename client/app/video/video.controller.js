@@ -1,11 +1,17 @@
 'use strict';
 
 angular.module('teachtvApp')
-  .controller('VideoCtrl', function($scope, $state, VideoService, LoadVideos, socket) {
+  .controller('VideoCtrl', function($scope, $state, VideoService, LoadVideos, LoadStaticData, socket) {
 
-    VideoService.query(function(videos) {
-      $scope.videos = videos;
-      socket.syncUpdates('video', $scope.videos);
+    // VideoService.query(function(videos) {
+    //   $scope.videos = videos;
+    //   socket.syncUpdates('video', $scope.videos);
+
+
+    // });
+
+    LoadStaticData(function(res) {
+      $scope.videos = res.data;
 
       var videoIds = [];
       angular.forEach($scope.videos, function(video) {
@@ -18,16 +24,6 @@ angular.module('teachtvApp')
           $scope.videos[key].youtubeObject = video;
         });
       }, true);
-
-
-      // for (var i = 0; i < $scope.videos.length; i++) {
-      //   LoadVideos($scope.videos[i].youtubeid, i, function(res) {
-      //     console.log(i);
-      //     console.log(res.data.items[0]);
-      //     $scope.videos[i].statistics = res.data.items[0].statistics;
-      //     $scope.videos[i].snippet = res.data.items[0].snippet;
-      //   });
-      // }
     });
 
 
@@ -38,7 +34,7 @@ angular.module('teachtvApp')
     }
 
     $scope.deleteVideo = function(video) {
-      VideoService.delete({id: video._id}, function(video) {
+      VideoService.delete({ id: video._id }, function(video) {
         console.log("Video deleted");
       })
     }
