@@ -1,17 +1,16 @@
 md-content.container-list
-	//- a#downloadAnchorElem(style="display:none")
-	a#downloadAnchorElem(ng-click="downloadJson()") Download here
+	//- a#downloadAnchorElem(ng-click="downloadJson()") Download here
 	.form-group
-		md-button(ng-click="sort('youtube.snippet.title')").md-raised Sort alphabetically
-			i(ng-show="propToSortOn=='youtube.snippet.title'",ng-class="{'fa-arrow-down':reverse,'fa-arrow-up':!reverse}").fa
-		md-button(ng-click="sort('youtube.statistics.viewCount')").md-raised Sort on views
-			i(ng-show="propToSortOn=='youtube.statistics.viewCount'",ng-class="{'fa-arrow-down':reverse,'fa-arrow-up':!reverse}").fa
-		h3 Tags:
+		//- md-button(ng-click="sort('youtube.snippet.title')").md-raised Sort alphabetically
+		//- 	i(ng-show="propToSortOn=='youtube.snippet.title'",ng-class="{'fa-arrow-down':reverse,'fa-arrow-up':!reverse}").fa
+		//- md-button(ng-click="sort('youtube.statistics.viewCount')").md-raised Sort on views
+		//- 	i(ng-show="propToSortOn=='youtube.statistics.viewCount'",ng-class="{'fa-arrow-down':reverse,'fa-arrow-up':!reverse}").fa
+		//- h3 Tags:
 		md-button(ng-click="category = 'Assessment'").md-raised.md-primary Assessment 
 		md-button(ng-click="category = 'Behaviour'").md-raised.md-primary Behaviour 
 	md-list
 		//- md-list-item.md-3-line(ng-click="goToVideo(video)", ng-repeat="video in videos | orderBy:'youtube.statistics.viewCount':reverse")
-		md-list-item.md-3-line(ng-click='goToVideo(video)', dir-paginate="video in videos | orderBy:propToSortOn:reverse | filter: {youtube.category:'Assessment'} | itemsPerPage:10")
+		md-list-item.md-3-line(ng-click='goToVideo(video)', dir-paginate="video in videos | orderBy:'youtube.statistics.viewCount' | filter: {category:category} | itemsPerPage:10")
 			img.md-avatar(ng-src='{{video.youtube.snippet.thumbnails.default.url}}', alt='{{video.youtube.snippet.title}}')
 			.md-list-item-text(layout='column')
 				h3.media-heading {{video.youtube.snippet.title}}
@@ -19,6 +18,3 @@ md-content.container-list
 				p Views: {{video.youtube.statistics.viewCount}}, Category: {{video.youtube.category}}
 				//- p Views: {{video.viewCount}}
 	dir-pagination-controls(max-size="5", direction-links="true", boundary-links="true")
-
-
-		

@@ -4,10 +4,12 @@ angular.module('teachtvApp')
   .controller('VideoCtrl', function($http, $scope, $state, VideoService, LoadVideos, LoadStaticData, socket) {
 
     $scope.reverse = false;
-    $scope.propToSortOn = 'statistics[0].viewCount';
+    $scope.propToSortOn = 'n';
     $scope.videos = [];
     $scope.test =[];
     var jsonToDownload = [];
+
+    console.log($scope.propToSortOn)
 
     $scope.sort = function(keyname) {
       console.log(keyname);
@@ -16,7 +18,7 @@ angular.module('teachtvApp')
     }
 
     // Tools for adding new playlists
-    
+
     // Tool for getting ID's out of a playlist
     // $http.get('/json/playlist-to-extract-ids.json')
     //   .then(function(res){
@@ -58,7 +60,7 @@ angular.module('teachtvApp')
 
       // Since the data has been manually loaded into seed.js, it's now only one line
       angular.forEach(videoData, function(videoDataItem, i) {
-        var newVideo = { "_id": videoDataItem._id, "youtube": videoDataItem.data[0].items[0] };
+        var newVideo = { "_id": videoDataItem._id, "youtube": videoDataItem.data[0].items[0], "category": videoDataItem.data[0].items[0].category, "n":i};
         $scope.videos.push(newVideo);
       })
 
