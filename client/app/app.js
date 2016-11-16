@@ -11,7 +11,8 @@ angular.module('teachtvApp', [
   'ui.router',
   'ui.bootstrap',
   'validation.match',
-  'ngMaterial'
+  'ngMaterial',
+  'angularUtils.directives.dirPagination'
 ])
   .config(function($urlRouterProvider, $locationProvider) {
     $urlRouterProvider
@@ -19,7 +20,12 @@ angular.module('teachtvApp', [
 
     $locationProvider.html5Mode(true);
   })
-  .controller('AppCtrl', function ($scope, $timeout, $mdSidenav, $log) {
+  .config(function($mdThemingProvider){
+    $mdThemingProvider.theme('default')
+      .primaryPalette('green')
+      .accentPalette('light-green');
+  })
+  .controller('teachtvAppCtrl', function ($scope, $timeout, $mdSidenav, $log) {
     $scope.toggleLeft = buildDelayedToggler('left');
     $scope.toggleRight = buildToggler('right');
     $scope.isOpenRight = function(){
@@ -78,14 +84,5 @@ angular.module('teachtvApp', [
           $log.debug("close LEFT is done");
         });
 
-    };
-  })
-  .controller('RightCtrl', function ($scope, $timeout, $mdSidenav, $log) {
-    $scope.close = function () {
-      // Component lookup should always be available since we are not using `ng-if`
-      $mdSidenav('right').close()
-        .then(function () {
-          $log.debug("close RIGHT is done");
-        });
     };
   });

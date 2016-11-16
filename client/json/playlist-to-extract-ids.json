@@ -1,0 +1,2184 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/bJzKoeEGOn1ZSJNa_z1Td4tVKGU\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 189,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/VDgK2yiBhM1XWZUXEzZd61KnP74\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5DMjEzNEIxMDAxMDA3NkMz",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for learning",
+        "description": "Five key strategies for effective formative assessment - Dylan Wiliam and Marnie Thompson.\n\nKvUtiS: http://kvutis.se\n\nTack för feedback och hjälp med översättning till engelska:\n- Lena Godhe, Malmö - @algodhe\n- Sara Mörtsell, Stockholm - @saramrtsell\n- Adriana Sturesson, Svedala - @adriswar\n- Lorna Walter, England - @lornawalter\n\nOch alla andra Twitter-korrare som anonymt korrigerade i manuset :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HcLMlY6R7RM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HcLMlY6R7RM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HcLMlY6R7RM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HcLMlY6R7RM"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/iQ70JcwzvQ5yM6dZigeDKDnnXbQ\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5BRTY3MTczMjEwRUIxMTI0",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Edu Life | Assessment for Learning & Assessment of Learning",
+        "description": "Know the difference between assessment for learning and assessment of learning? What role will technology play in assessing academic performance in the coming years? \n\nJoin us this week for a fascinating talk on this very important subject as we introduce Dr. Jacqueline Leighton, Chair of Educational Psychology here at the University of Alberta to the show.\n\nRelated links:\nCRAME \nhttp://www2.education.ualberta.ca/educ/psych/crame/\n\nDr. Jacqueline P. Leighton\nhttp://www.edpsychology.ualberta.ca/en/People/AcademicStaff/JacquelinePLeighton.aspx\n\nFaculty of Education at the University of Alberta\nhttp://www.education.ualberta.ca\n\nBEdition Magazine\nhttp://beditionmagazine.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aH8p6NJbBlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aH8p6NJbBlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aH8p6NJbBlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aH8p6NJbBlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aH8p6NJbBlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aH8p6NJbBlY"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/4jMyL1rgkMl3zg_qryAVsB_9WDg\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5GMDExRUM0ODlDODQ5QUYz",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment as learning",
+        "description": "Tasks that make learning happen\nFormative vs summative\nRubrics\nPeer assessment\nSustainable assessment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njgyYUNkyAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njgyYUNkyAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njgyYUNkyAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njgyYUNkyAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/njgyYUNkyAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "njgyYUNkyAs"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/7jNPbvLRSwM_8wkUsHZAqet2YK4\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC45REZDODhEMDJBMjYzRjU2",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Dylan William Assessment for Learning",
+        "description": "Vurdering for læring - 17.03.2010",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TZtOkKqldCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TZtOkKqldCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZtOkKqldCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TZtOkKqldCY"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/LotldOT1QHsa8zcPDUCiALr2tls\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4xOUE3MTcwMUFGNTA1RkIz",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Module 2-Assessment FOR, AS, & OF Learning",
+        "description": "A short module on the various types and purposes of assessment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q7QuQpMStS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q7QuQpMStS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q7QuQpMStS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q7QuQpMStS4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q7QuQpMStS4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/-9byB1Ecw9bscHbSzDGiHDlpio0\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5EOTYwRUMwRjQyNUU5OUQ2",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment FOR Learning - an example - I want to be the starting tailback",
+        "description": "Comparison of Assessment FOR Learning and Grading Practices with a player trying to become a starting tailback.  For more information on Assessment FOR Learning, visit: http://salemafl.ning.com or contact Scott Habeeb at shabeeb@solutionsetc.org.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KStqDThoZsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KStqDThoZsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KStqDThoZsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KStqDThoZsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KStqDThoZsU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KStqDThoZsU"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/sdCJYG2oCTgyFsLfM0UlPVIp7rM\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4xOEQ5QUE1QzQxRjMzMUUw",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Summarization 5 Assessment as Learning",
+        "description": "This segment offers the viewer a window into student-teacher conferences, as students apply their new learning about summarization to independent work. The individual student conferences are used to assess student comprehension and determine the appropriate course of action to move the student to deeper\r\nunderstanding of the material and the summarization process.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9N1B-I9E34g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9N1B-I9E34g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9N1B-I9E34g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9N1B-I9E34g"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/IuJdbfWM2hOk7eF-yFGzNzvhcKE\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4wQjcxQjlDRkJBQjZGRjVF",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for learning - effective feedback",
+        "description": "Assessment for learning - effective feedback.  A short video starring two members of staff on how to give effective and constructive feedback to students.  Created for a twilight training session.  Please watch right until the end!!\n\nRecorded and edited by Ian Garfield",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BWrUcWA0UGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BWrUcWA0UGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BWrUcWA0UGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BWrUcWA0UGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BWrUcWA0UGY"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/7qFPXgUZilh_hmVBMsxwtQq63Ns\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC40RURDOUM4NzY2RUMwRDhG",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Importance of Student Learning Assessment",
+        "description": "Dr. Terrel Rhodes, Keynote Speaker, 2013 MSU PFF-ASL Spring Institute",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nlywnTYY_hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nlywnTYY_hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nlywnTYY_hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nlywnTYY_hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nlywnTYY_hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nlywnTYY_hc"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/tGeguko65SDV1JQ1M8KwLPcLyGo\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5DMTQxM0VCRTg4QjQyQzI1",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment as Learning | Learning Beyond Letter Grades",
+        "description": "In this module, you have the chance to explore the concept of assessment as learning.  Much of what is done on the world of assessment is considered assessment for learning and assessment of learning.  However, in this module, we will look at a different perspective, one that allows us to think carefully about assessment can be a tool for helping students to grow and develop as reflective and self-directed learners. It will also challenge us to consider how we might further involve learners in the assessment process, turning assessment into something that we do alongside students, rather than something that we do to (or even for) students.\n\nhttp://www.beyondlettergrades.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u5If-qMZqW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u5If-qMZqW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u5If-qMZqW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u5If-qMZqW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u5If-qMZqW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u5If-qMZqW0"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/DHz6ejMdMRxz5wygQ9XI8R2COag\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC42MUYwNTQ0REIyM0NFMzZF",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessing Learning",
+        "description": "Valuable learning assessment strategies describe how the achievement of the intended learning outcomes will be determined.\n\nGo to http://ed.ted.com/on/zRR5V2hD  to complete the Ed.TED lesson for this video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C1ENRnMYP-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C1ENRnMYP-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C1ENRnMYP-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C1ENRnMYP-k"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/ukao32UwYp5AxB-Q_iRsj41qVGs\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5BNzgzOEMxQTVBMDA3Mjky",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Stiggins - AFL.mp4",
+        "description": "This is a video of Rick Stiggins explaining the difference between assessment of learning and assessment for learning.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EDVHuHyCGmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EDVHuHyCGmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EDVHuHyCGmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EDVHuHyCGmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EDVHuHyCGmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EDVHuHyCGmg"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/Nr31hJc84WEzt02PYCCFZohJ5-k\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4xMkUzMUMzNzRBRkE3NTE1",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment For Learning vs. Assessment Of Learning",
+        "description": "This video was produced as part of a partnership between NJIT and the NJDOE to provide support for NJ educators in the Online Professional Learning Exchange or OPLE and compares assessment OF learning and assessment FOR learning. For more information, please visit www.NJCORE.ORG or http://www.online-plc.org.-- Created using PowToon.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wvRJyTExVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wvRJyTExVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wvRJyTExVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_wvRJyTExVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_wvRJyTExVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_wvRJyTExVU"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/66b6KLYFnhenojehNYzaSp0dego\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC43MzFERTgyRDE0OTA5RTg2",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment \"of, as, for\" learning.mov",
+        "description": "CTSI, Large Class Teaching, 2011, Garfield Gini-Newman",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q24ocudt9hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q24ocudt9hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q24ocudt9hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q24ocudt9hc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q24ocudt9hc"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/ZytLrd73YJo5BozyFUIV8njR6-w\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC41OTVDRjczNzYyNUFEOThD",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment AS Learning",
+        "description": "A comparison of Assessment OF, FOR, and AS Learning.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vPVrLBeXGko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vPVrLBeXGko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vPVrLBeXGko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vPVrLBeXGko"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/mPq13ySZ2PyFOXEcYSZt6t5U7zY\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5EOEM4QjdEQzkyQjU2NERD",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "World Language Assessment | Assessments for Learning",
+        "description": "Jody Schneider, Lisa Hendrickson, and Karen Fowdy show how using Integrated Performance Assessments (IPAs) and planning thematic units together can benefit students at different levels and in any language.\r\n\r\nSegment #1: Jody Schneider (K-8 Woodlands School, Milwaukee: French)\r\nJody demonstrates an Integrated Performance Assessment (IPA) and backward design planning in the context of a social studies connection, Early French Explorers and Fur Trade in Wisconsin.\r\n\r\nSegment #2: Lisa Hendrickson and Karen Fowdy (Monroe HS: Spanish & German)\r\nKaren and Lisa talk about how they plan their thematic units together. They show how teachers of different languages and different levels can plan together for a similar unit. \r\n\r\nMore at: http://www.ecb.org/WorldLanguageAssessment/index.htm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVuGHbupW7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVuGHbupW7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVuGHbupW7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AVuGHbupW7E"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/3ucHTz8AN-g8viP18W9p3bkO1P4\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4zREY3OTFBNThDMUVCOTFD",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Success Criteria: Assessment for Learning in Second Grade (Virtual Tour)",
+        "description": "Identifying and displaying the expectations for a given task guides learning and helps students understand what they need to do in order to achieve the learning goal. See the lesson plan at http://www.oise.utoronto.ca/balancedliteracydiet/Recipe/50070/ and do a virtual tour of this teacher’s classroom at http://www.oise.utoronto.ca/balancedliteracydiet/12TD.html. Also go to http://www.LitDiet.org for more free teaching activities and virtual classroom tours.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mAxjtEPjsf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mAxjtEPjsf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mAxjtEPjsf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mAxjtEPjsf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mAxjtEPjsf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mAxjtEPjsf0"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/TOwV6UMOR5marmUaMTQ0wCOW2hk\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5EMkRFMUQ5RDkzNDI4QTlE",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning",
+        "description": "Are your students reluctant to tell you they don't understand something? You may be teaching, but are they learning? EI's Assessment for Learning program was created to provide you with the skills and tools needed to uncover what your students know, what they still need to learn, and how to use assessment as a tool for learning -- not just evaluating. \n\nThis powerful program will provide you with the knowledge you need to create, develop and conduct a full range of high quality classroom assessments. Packed with practical suggestions for teachers of every subject, this program includes countless real classroom examples to model with your students. The program features an array of experts including Rick Stiggins, one of North America's leading authors on classroom assessment, and founder of the Assessment Training Institute.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ioqTq9KSuh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ioqTq9KSuh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ioqTq9KSuh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ioqTq9KSuh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ioqTq9KSuh8"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/JEVnBuKTnFp2zhjtkaGcRXV3YrM\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5CNkVBQjRCNTA4NUVBRTkw",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "EMMA MOOC: Assessment for learning in practice",
+        "description": "The MOOC Assessment for Learning in practice introduces you to the concept of formative assessment and provides hands-on experiences of designing instruments of assessment for learning. The course follows the state-of the art on the topic, yet is practice-oriented and offers flexibility for learners. Each of the six lessons contains a self-contained learning task that can also be done independently.\n\nMore info: http://platform.europeanmoocs.eu/course_toetsen_voor_leren_in_de_prakt\n\nDe MOOC Toetsen voor Leren in de praktijk leidt u in in de theorie en praktijk van toetsen voor leren en illustreert dit met praktijkervaringen voor het ontwerpen van instrumenten voor toetsen voor leren. De cursus combineert state-of-the-art inzichten met een praktische insteek en biedt voldoende flexibiliteit. Ieder van de zes lessen is een betekenisvolle leertaak die ook afzonderlijk gedaan kan worden.\n\nMeer info: http://platform.europeanmoocs.eu/course_toetsen_voor_leren_in_de_prakt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AoIbYIoMbRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AoIbYIoMbRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AoIbYIoMbRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AoIbYIoMbRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AoIbYIoMbRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AoIbYIoMbRM"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/3k9EVehvqZ58nHDr6GElAmx7POU\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC43Rjg3MTU3N0E2NzM5OERG",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Descriptive Feedback: Engaging Students in Assessment for Learning (Virtual Tour)",
+        "description": "Providing students with descriptive feedback during one-on-one conferencing helps them understand their strengths and next steps in order to successfully complete the given task. See the lesson plan at http://www.oise.utoronto.ca/balancedliteracydiet/Recipe/50087/ and do a virtual tour of this teacher’s classroom at http://www.oise.utoronto.ca/balancedliteracydiet/12ABLD.html. Also go to http://www.LitDiet.org  for more free teaching activities and virtual classroom tours.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m1bkMNS-la4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m1bkMNS-la4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m1bkMNS-la4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m1bkMNS-la4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m1bkMNS-la4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m1bkMNS-la4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/Cc47o3Iowwa8Vqzj8rZD6PpsOeA\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC42QTAzMjA5NDJCMzU1QzE4",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Video 1   Learning Goals   The Foundation of Assessment for Learning",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1cWKSdAhAG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1cWKSdAhAG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1cWKSdAhAG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1cWKSdAhAG0"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/UGLlY0Oi2OYqQEvpjAfdaHgZ2lU\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5GQjU2ODE3MzI5NzlCMTBC",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment-as-learning: introducing the Conversation Sim",
+        "description": "eAssessment Scotland 2013 - Transforming Assessment Webinar 21 August 2013\nPresenters: Robert Nelson and Phill Dawson (Monash University, Australia)\n\nThis session tells the story of the conversation sim. We wanted to teach unwieldy, sprawling syllabus to hundreds of people whom we might never see; but we also wanted to assess if the students follow our ideas. Our model was the Socratic humanities tutorial, where a teacher asks a question and someone answers - partially and with bias - in a way that calls for further responses. We replicate this structure on the computer which simultaneously conducts assessment, because participation in the simulated conversation clocks up credit on a judiciously discriminating basis.\n\nThis session was hosted by Professor Geoff Crisp, RMIT University and Dr Mathew Hillier, University of Queensland, Australia starting 07:00AM UST/GMT. Duration 51 minutes.\n\nFurther information and resources for this session:\nhttp://www.transformingassessment.com/eAS_2013/events_21_August_2013.php\n\nSee more about e-assessment and webinars at Transforming Assessment: http://transformingassessment.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SyF7V3b_afg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SyF7V3b_afg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SyF7V3b_afg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SyF7V3b_afg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SyF7V3b_afg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SyF7V3b_afg"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/rdmxAUsH6jOMk-dhpVHH0g-yktk\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5DMzI4QjQ4MjI3MTA5NUQw",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Student Self-Assessment and Learning Targets",
+        "description": "Building students' capacity to self-reflection and self-assess using learning targets supports student achievement and accountability for learning.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQx5EqFo3Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQx5EqFo3Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQx5EqFo3Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vQx5EqFo3Q4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vQx5EqFo3Q4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/ZXWFCnekMFhhYXOsJtedr4PenP4\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4xNjNCMDMyNzAwMzU3NUIz",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Blended Learning",
+        "description": "This video is a brief introduction to some of the requirements for assessment in a blended learning environment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lQvCkv7-EUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lQvCkv7-EUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lQvCkv7-EUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lQvCkv7-EUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lQvCkv7-EUY"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/xx43IPHKZT85C8SWfMau8skJILU\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC44NTVGQzJFRTY2ODdCRUQ1",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "JISC - Assessment and Learning in Practice Settings - Emerging Practice in a Digital Age",
+        "description": "Assessment and Learning in Practice Settings\r\nUniversities of Leeds, Bradford and Huddersfield and Leeds Metropolitan and York St John University\r\n\r\nEmerging Practice in a Digital Age",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c0WkCFlpg9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c0WkCFlpg9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c0WkCFlpg9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c0WkCFlpg9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c0WkCFlpg9k"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/W64dDPdlwuJkyIRdkxRShYVIBSU\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5CNDFDNjRBOTlDNjZBNUJC",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning",
+        "description": "Article Presentation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p-ab1q0WG3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p-ab1q0WG3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-ab1q0WG3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p-ab1q0WG3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p-ab1q0WG3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p-ab1q0WG3s"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/rORg9AxC80Nk0sk5ENe7cbaMb28\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC43MjdDRjhGREM1QUM0QzIx",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning 2011-12",
+        "description": "Teachers who began to incorporate Assessment for Learning (AFL) techniques into their classrooms take a look back at the program and the progress made last school year.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iEvzP4O5xA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iEvzP4O5xA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iEvzP4O5xA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iEvzP4O5xA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iEvzP4O5xA4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/RSat4n5Jyh_Lbzrtk9YfRklLncw\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5EMUIyNkE2QTkyMTNFOUNC",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Secondary Assessment for Learning Geography",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fmwjvuTTKks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fmwjvuTTKks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fmwjvuTTKks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fmwjvuTTKks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fmwjvuTTKks"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/Xpz08i93OwPU1H9L_9jwP0zaBP4\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC43RDFCREYxQzBFQjU3MkRD",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning (AFL)",
+        "description": "A PowerPoint Presentation on AFL.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hDuwWg2oorA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hDuwWg2oorA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hDuwWg2oorA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hDuwWg2oorA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hDuwWg2oorA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hDuwWg2oorA"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/fn3HDXWT_9nUpAKq7gCWvXwOIZs\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4wQTJEQ0RFRjQ3OUU5RDE3",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "EDCN814 Assessment for Learning Presentation",
+        "description": "The principles of effective Assessment for Learning in Secondary Schools. Lessons from research and the practical implications for the classroom, whole school, state and national levels.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vaQ7terjhXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vaQ7terjhXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vaQ7terjhXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vaQ7terjhXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vaQ7terjhXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vaQ7terjhXA"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/lqjXkdzeFbTqI0rfQEK9CUs1v3w\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4yQkFFM0UwREEzRDNFNjMz",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment as Learning Live Event | Learning Beyond Letter Grades",
+        "description": "Live Event recorded on October 22nd, 2013 at 5pm CST.\n\nIn the Assessment as Learning module,  you have the chance to explore the concept of assessment as learning. Much of what is done on the world of assessment is considered assessment for learning and assessment of learning. However, in this module, we will look at a different perspective, one that allows us to think carefully about assessment can be a tool for helping students to grow and develop as reflective and self-directed learners. It will also challenge us to consider how we might further involve learners in the assessment process, turning assessment into something that we do alongside students, rather than something that we do to (or even for) students.\n\nhttp://www.beyondlettergrades.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tbYuOvHCQ2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tbYuOvHCQ2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tbYuOvHCQ2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tbYuOvHCQ2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tbYuOvHCQ2Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tbYuOvHCQ2Y"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/VPSr2dz13pJioXq2wy70I47lero\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5FNTE2RjdFRTA0Mjg0RkI5",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning through Big Writing",
+        "description": "Professor Black has already admitted than many teachers do not understand Assessment for Learning (AfL) any better now than they did before he first wrote about it. In schools doing Big Writing as we recommend it, however, best practice in AfL can be clearly seen, fully implemented and with highly effective results.\n\nThis video excerpt was filmed in Horbury Bridge CE (VC) JI Academy in Wakefield in 2012. In this video the following can clearly be seen:\n\n1.The teacher working with a child to identify examples of high level writing voice features and of the child's personal targets in the child's writing.\n2.Children working together to identify examples of high level writing voice features and of their personal targets in their writing.\n3.A boy identifying examples of high level writing voice features in his writing, for the class.\n4.A girl talking about ways Big Writing empowers her to achieve more highly and to give a judgement about her personal level of attainment as a writer.\n\nThese are all the features of AfL recommended in the Big Writing process. We recommend that, when the teacher has marked the writing (including an evaluative comment at the end) the children work with their writing partners to:\n\n1.Read the teacher's comments on each of their pieces of writing.\n2.Identify high level features of VCOP they have used, usually using highlighters.\n3.Identify evidence of progress against their personal targets.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2UKz3Wx5SNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2UKz3Wx5SNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2UKz3Wx5SNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2UKz3Wx5SNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2UKz3Wx5SNA"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/J-Hi2sgN81NpyoG2nGdwZsj5DG4\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5GN0IxNDdDMUNGQzhFOEZD",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Deleted video",
+        "description": "This video is unavailable.",
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PSXApNtqyoc"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/SqNXdvddAYl9-R2YrLd4roOqieA\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC42RDUyQTcwRjhEQTA2M0NE",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "assessment for learning",
+        "description": "A summary of a literature review on Assessment for learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uZ18qhWlzqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uZ18qhWlzqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uZ18qhWlzqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uZ18qhWlzqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uZ18qhWlzqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uZ18qhWlzqU"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/RJ9dwZZyIYqcmW8iGamVCh7IUR8\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC41RDcyODQ1QkJGOEI5NzA2",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning: Peer-assessment and ICT",
+        "description": "Assessment for Learning: Peer-assessment and ICT (Click http://orbit.educ.cam.ac.uk/wiki/Video/Pedpack2-23.m4v for additional information about this video.)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGm72cHfUcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGm72cHfUcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGm72cHfUcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lGm72cHfUcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lGm72cHfUcE"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/iTdRhHTCJfQW7GbbOCnLF36oPRg\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5BOUNCQTkyNkJFMzBGQTlF",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment FOR Learning    Testing That Actually Improves Learning",
+        "description": "Interview with Joanna Goodman",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LiXss1Rrrt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LiXss1Rrrt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LiXss1Rrrt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LiXss1Rrrt4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LiXss1Rrrt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LiXss1Rrrt4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/n-C2JPWOlEK6iT5BbObKZNihtp0\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC42RjEzM0IwQTAyOUUzNzhD",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Ready, Check, Go! An Assessment for Learning",
+        "description": "Speaker: Sasha Alexov (Canada)\nIntended Audience: Grades 3-8; Before and/or Afterschool Activities; Physical Activity, Recreation or Sport\nSession Description: To promote the value of physical activity to parents/guardians and teacher/leaders, as well as engage them as key decision-makers in the healthy living behaviour of children and youth, Physical and Health Education Canada (PHE Canada) created a new resource, titled Ready, Check, Go! The Ready, Check, Go! resource is a physical activity tracker, which is designed to help participants and their parents/guardians understand the importance of and enjoy regular daily physical activity in ways that suit their personal beliefs and needs. In this session, participants will review the Ready, Check, Go! resource, including the Leader/Teacher Guide, Participant/Student Workbook, and Parent/Guardian Guide. We will also discuss goal setting and inclusive activities for children of all abilities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KiMZdt8kmM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KiMZdt8kmM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KiMZdt8kmM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KiMZdt8kmM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KiMZdt8kmM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KiMZdt8kmM4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/wR5owMRRR1TGcvwqZoI2KC_2HqY\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5FQjk3QTk4OTkyOUIxMzM4",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning Strategies Judy Forbes Part 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kxyk_9kY1Xk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kxyk_9kY1Xk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kxyk_9kY1Xk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kxyk_9kY1Xk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kxyk_9kY1Xk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kxyk_9kY1Xk"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/00g1jPhdxt5KNoWwnAzvYHPq9G8\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC42QjA2OEFCQjA5OTFEN0Ix",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning: Assessment in everyday lessons",
+        "description": "Assessment for Learning: Assessment in everyday lessons (Click http://orbit.educ.cam.ac.uk/wiki/Video/Pedpack2-11.m4v for additional information about this video.)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZhCOOMZBl_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZhCOOMZBl_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZhCOOMZBl_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZhCOOMZBl_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZhCOOMZBl_o"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/HhCNT2vQGu_534GD08lQ8h7YqDc\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4wNjRBNTJCMjJDRTgxNzI4",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Introducing the IPC: Assessment for Learning",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P1reTGU6uco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P1reTGU6uco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P1reTGU6uco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P1reTGU6uco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P1reTGU6uco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P1reTGU6uco"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/ZIQGU-GQ4Xs_FIqpdmXEjgyrtvU\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4zQTNDMzI0MTU4MUNBOEE5",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "AssesSment for Learning",
+        "description": "ASSESSMENT FOR LEARNING",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TCYtjltXK5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TCYtjltXK5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TCYtjltXK5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TCYtjltXK5w"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/pwcMK5BRlmaAOUQ85b8fRykJtzc\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC43RTBGRkY3QTgxRTY3QkFC",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Portfolio on Assessment of Learning 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ePw5FmV0ot0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ePw5FmV0ot0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ePw5FmV0ot0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ePw5FmV0ot0"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/90HH1aCd53amYuTL_1-pa-LQxEQ\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC44MURDRjU4NTI5MzVCQjhC",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning in 5 m.wmv",
+        "description": "This is a 5 minute overview of Assessment for Learning (AfL) as it relates to language learning for children.  AfL encourages use of formative assessment as well as summative assessment to assist the learning process,  AfL.is new to the EFL classroom - though it is now mainstream  in primary and secondary schooling, in the UK and some other countries.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5OEBTtm5yG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5OEBTtm5yG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5OEBTtm5yG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5OEBTtm5yG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5OEBTtm5yG0"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/QF1OqIfgdwA3vFn0nryJdX_h3QE\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4yQzcyRTlBNUYxMDE2RTNC",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "AERI 2013: The Gordon Commission's Perspectives: Moving toward Assessment for Learning",
+        "description": "http://www.tc.columbia.edu/aeri\n\nAssessment and Evaluation Research Initiative (AERI) 2013 Conference\n\nSession II\nThe Gordon Commission's Perspectives: Moving toward Assessment for Learning\nThe Future of Assessment is Already Here -- It's Just not Evenly Distributed (after William Gibson)\nRobert J. Mislevy, Educational Testing Service\nConnecting Cognitive Science and Measurement Science: An Argument Regarding necessity and Suffi ciency\nJames W. Pellegrino, University of Illinois at Chicago\nA Persistent Problem in Evaluating Writing\nClifford Hill, TC, Columbia University\nAn Anthropologist's Perspectives on Everyday Assessments and Their Relevance to Formal Assessments\nHerve Varenne, TC, Columbia University\nDiscussant:\nA Visionary Perspective on Assessment for Education, Born of the Gordon Commission on the Future of Assessment\nEdmund W. Gordon, TC, Columbia University and The Gordon Commission\n\nModerator: Ernest Morrell, TC, Columbia University",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rmrdzWR2asc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rmrdzWR2asc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rmrdzWR2asc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rmrdzWR2asc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rmrdzWR2asc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rmrdzWR2asc"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/OXnctRnzYZZS4DgNgXPkyawgzzE\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5BMjg5QzE0NTQyQkNEMUI2",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "'What Opportunities and Challenges does Computing present to Assessment for Learning'",
+        "description": "A video constructed by myself for my final year assignment of ICT.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iuBFEBFG6Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iuBFEBFG6Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iuBFEBFG6Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iuBFEBFG6Y4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iuBFEBFG6Y4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/VuehiIoFfbMZiNZqsMVdlHaZwC0\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC4zMUEyQzYwRUJFMTFFMEYy",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment for Learning",
+        "description": "Introductory video for online tutorial on Assessment for Learning",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wtmGbJdUv4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wtmGbJdUv4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wtmGbJdUv4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wtmGbJdUv4c"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/ty4wbN_CpQr1hk9mEP44BBYOvyE\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC5DOEIzMDQ2N0UwN0E4QTQz",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Assessment as Learning for Global Citizenship - Dilemmas and Opportunities across Disciplines",
+        "description": "Tertiary education: the conference relates to global engagement, teaching and assessment as learning for the future curriculum of global citizens. Below the shortcuts to the presentations.\n\n00:00:04 Welcome and opening remarks from an historian perspective on global citizenship\n\n- Professor Sarah Paddle - Associate Dean (Teaching and Learning) Faculty of Arts & Education, Deakin University\n\n00:02:53 Through their eyes -- how would students know they were being assessed for global citizenship?\n\n- Professor Geoffrey Crisp - Dean (Learning and Teaching), RMIT \n\n\n00:38:52 Critical considerations in the glocalization of assessment as learning for global citizenship\n\n- Dr Fay Patel, Assessment and Learning Design Manager -- Team Support for Faculty of Arts and Education, Deakin University \n\n1:12:16 Bringing Global Citizenship Home: From \"Over There\" to Right Here\n\n- Ms Ursula Lorentzen, Acting Manager, Student Mobility, Deakin International\n- Ms Meghan Kelly, Lecturer in Graphic Design, Deakin University\n\n1:41:23 Globally engaging the curriculum - does it suit all disciplines?\n\n- Professor Darrell Evans, Pro Vice Chancellor (Learning and Teaching) Learning, Monash University\n\n1:52:30 Facilitated discussion and further questions from attendees (online or in locus)\n\n2:12:58 Globalisation, Internationalisation and the opportunities and constraints around a scholarship of teaching approach\n\n- Professor Ian Robottom, Associate Dean (International), Deakin University\n\n2:35:35 Panel Discussion\n\n- Professor Brenda Cherednichenko, Pro Vice Chancellor, Faculty of Arts and Education, Deakin University \n- Dr. Mingsheng Li, Massey University, New Zealand \n- Professor Farid Ahmed, Jahangirnagar University, Dhaka, Bangladesh \n- Mr Alberto Nicotra, Research Assistant, Monash University -- Student Perspective",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k-nbPJt_G0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k-nbPJt_G0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k-nbPJt_G0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k-nbPJt_G0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k-nbPJt_G0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k-nbPJt_G0c"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/LnZlRFc1-Mzj79ttJXEN4IWLKEg\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC40MkJGOTM3MDMxNzlDM0NG",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Edexcel GCSE Maths -- ActiveTeach Assessing Pupils' Progress & Assessment for Learning. (3 of 4)",
+        "description": "ActiveTeach delivers engaging, interactive content that inspires students and makes for great whole-class teaching.\n\nThis short video shows how Edexcel GCSE Maths ActiveTeach can help you Assess your Pupils' Progress (APP) and is designed to help with whole class Assessment for Learning (AfL).\n\nBy simply clicking on the tracking button, you can record how your class feels about a particular maths topic, and can store this information with the ability to either print or export it.\n\nIn addition, there are quick links to extra practice questions, so you can build on topics that you students find more tricky.\n\nActiveTeach is available across a wide variety of subjects, and for Key Stages 3, 4 and 5.\n\nNB:  This video has been compressed and therefore quality may be compromised. All ActiveTeach products are high definition To see full quality demos across all of our ActiveTeach supported courses, visit our website and choose your subject here http://www.pearsonschoolsandfecolleges.co.uk/ActiveTeach/ActiveTeachhome2.aspx",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h89Rjk_e9t4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h89Rjk_e9t4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h89Rjk_e9t4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h89Rjk_e9t4"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/E41yp5jxXpiPt_e6WlkGXmCR3vk\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC43ODg1Q0ZFMDE5OTUyREY2",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "\"Assessment and Learning in Schools\"",
+        "description": "An interview with Mike Thiruman, President, Singapore Teachers' Union by Dr Jon Scaife, University of Sheffield.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pf-d8OBMGwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pf-d8OBMGwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pf-d8OBMGwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pf-d8OBMGwE"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"sZ5p5Mo8dPpfIzLYQBF8QIQJym0/KLGNbApUHNbQuQWJ_6NnS9Md9kg\"",
+      "id": "UEw5czZKVWNMQVZsQm1jY0VtTUtKSXdROHdlQzRrZWhMOC44Rjk3NTE1MUNEN0Q4NjIz",
+      "snippet": {
+        "publishedAt": "2015-10-28T19:49:42.000Z",
+        "channelId": "UCKlDea03jWfuDdyKOCsn6SA",
+        "title": "Creating assessments for learning",
+        "description": "On Thursday 27 November 2008, Hazel Owen and Helen Martin (Centre of Teaching and Learning Innovation) re-presented their Tertiary Assessment Symposium paper - \"Using online tools to provide relevant, authentic and timely assessment\". The paper represents an extended version of that given in Wellington, with more detail and discussion invited.\nBelow is the abstract for the paper:\n\"Assessment practice is at its most rich when assessment events are relevant, authentic and timely. Relevant assessment is that which is inextricably linked to learning outcomes designed to meet an agreed graduate profile (Biggs, 1999). Authentic assessment requires students to perform real-world tasks that demonstrate meaningful application of essential skills and knowledge. Timely assessment provides students with the opportunity to apply skills and knowledge gained as they learn. Teaching and learning in a blended format enables relevant, authentic and timely assessment that is greatly facilitated by the use of online tools, including self-grading, simulation and problem-based approaches, activities that require reflection and peer-review and the electronic delivery of assessment tasks. Drawing on Bloom's extended taxonomy of cognitive development (Anderson, Krathwohl & Bloom , 2001) and sociocultural theory (Vygotsky, 1934) this paper will demonstrate the value of designing and using e-assessments to enhance student learning. Examples will be explored that illustrate some of the benefits to teaching and learning offered by moving toward assessments based in flexible, mobile, collaborative learning technologies\".Please cite as: Owen, H and Martin, H. (2008, November 27). Using online tools to provide relevant, authentic and timely assessment. Paper presented at The Tertiary Assessment Symposium Revisited: Unitec Lunch Time Series. Unitec: Auckland, NZ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wsAETHxHSho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wsAETHxHSho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wsAETHxHSho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Educational Assessment - Topic",
+        "playlistId": "PL9s6JUcLAVlBmccEmMKJIwQ8weC4kehL8",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wsAETHxHSho"
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ]
+}

@@ -1,56 +1,24 @@
-div(layout='column', layout-align='top center')
-	p
-		| The left sidenav will 'lock open' on a medium (=960px wide) device.
-	div
-		md-button.md-primary(ng-click='toggleLeft()', hide-gt-md='')
-			| Toggle left
-div(flex='')
-
-//- div(layout="column" style="height:500px;" ng-cloak)
-	section(layout="row" flex)
-		md-sidenav(md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4").md-sidenav-left
-			md-toolbar.md-theme-indigo
-				h1.md-toolbar-tools Sidenav Left
-			md-content(layout-padding)
-				md-button(ng-click="close()" hide-gt-md).md-primary
-					Close Sidenav Left
-				p(hide show-gt-md)
-					| This sidenav is locked open on your device. To go back to the default behavior,
-					| narrow your display.
-	md-content(flex layout-padding)
-		| Hello World
-		//- div(ng-cloak)
-			md-content
-				md-tabs(md-dynamic-height md-border-bottom)
-					md-tab(label="one")
-						md-content.md-padding
-							h1.md-display-2 Tab One
-							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.
-					md-tab(label="two")
-						md-content.md-padding
-							h1.md-display-2 Tab Two
-							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.
-					md-tab(label="three")
-						md-content.md-padding
-							h1.md-display-2 Tab Three
-							p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla venenatis ante augue. Phasellus volutpat neque ac dui mattis vulputate. Etiam consequat aliquam cursus. In sodales pretium ultrices. Maecenas lectus est, sollicitudin consectetur felis nec, feugiat ultricies mi.
+md-content.container-list
+	//- a#downloadAnchorElem(style="display:none")
+	a#downloadAnchorElem(ng-click="downloadJson()") Download here
+	.form-group
+		md-button(ng-click="sort('youtube.snippet.title')").md-raised Sort alphabetically
+			i(ng-show="propToSortOn=='youtube.snippet.title'",ng-class="{'fa-arrow-down':reverse,'fa-arrow-up':!reverse}").fa
+		md-button(ng-click="sort('youtube.statistics.viewCount')").md-raised Sort on views
+			i(ng-show="propToSortOn=='youtube.statistics.viewCount'",ng-class="{'fa-arrow-down':reverse,'fa-arrow-up':!reverse}").fa
+		h3 Tags:
+		md-button(ng-click="category = 'Assessment'").md-raised.md-primary Assessment 
+		md-button(ng-click="category = 'Behaviour'").md-raised.md-primary Behaviour 
+	md-list
+		//- md-list-item.md-3-line(ng-click="goToVideo(video)", ng-repeat="video in videos | orderBy:'youtube.statistics.viewCount':reverse")
+		md-list-item.md-3-line(ng-click='goToVideo(video)', dir-paginate="video in videos | orderBy:propToSortOn:reverse | filter: {youtube.category:'Assessment'} | itemsPerPage:10")
+			img.md-avatar(ng-src='{{video.youtube.snippet.thumbnails.default.url}}', alt='{{video.youtube.snippet.title}}')
+			.md-list-item-text(layout='column')
+				h3.media-heading {{video.youtube.snippet.title}}
+				h4  - {{video.youtube.snippet.channelTitle}}
+				p Views: {{video.youtube.statistics.viewCount}}, Category: {{video.youtube.category}}
+				//- p Views: {{video.viewCount}}
+	dir-pagination-controls(max-size="5", direction-links="true", boundary-links="true")
 
 
-//- .container
-	.row
-		.col-lg-12
-			form.form-inline
-				.form-group
-					label(for="videoID").sr-only YouTube ID
-					input(ng-model="newVideo.youtubeid" placeholder="YouTube ID e.g. se4cgYFaVas").form-control#videoID
-				button(ng-click="createVideo()").btn.btn-success Add Video
-			hr
-			md-list
-					md-list-item.md-3-line(ng-click='goToVideo(video)', ng-repeat='video in videos')
-						img.md-avatar(ng-src='{{video.youtubeObject.snippet.thumbnails.default.url}}', alt='{{video.youtubeObject.snippet.title}}')
-						.md-list-item-text(layout='column')
-							h3.media-heading {{video.youtubeObject.snippet.title}}
-							h4  - {{video.youtubeObject.snippet.channelTitle}}
-							p Views: {{video.youtubeObject.statistics.viewCount}}
-						md-button.md-secondary(ng-click='deleteVideo(video)') Delete
-	
+		

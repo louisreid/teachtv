@@ -1,12 +1,17 @@
 md-sidenav.md-sidenav-left(md-component-id='left', md-is-locked-open="$mdMedia('gt-md')", md-whiteframe='4')
 	md-toolbar.md-theme-indigo
-		h1.md-toolbar-tools Sidenav Left
-	md-content(layout-padding='', ng-controller='LeftCtrl')
-		md-button.md-primary(ng-click='close()', hide-gt-md='')
-			| Close Sidenav Left
-		p(hide='', show-gt-md='')
-			| This sidenav is locked open on your device. To go back to the default behavior,
-			| narrow your display.
+		h1.md-toolbar-tools Teach TV
+	md-content(ng-controller='LeftCtrl')
+		md-list(ng-cloak)
+			md-list-item.md-1-line(ng-click='')
+				a(href="#").md-button
+					md-icon(md-font-icon="fa fa-pencil") 
+					| Assessment
+			md-list-item.md-1-line(ng-click='')
+				a(href="#").md-button
+					md-icon(md-font-icon="fa fa-users") 
+					| Classroom Behaviour
+
 
 //- md-navbar.md-menu-toolbar
 	| Toolbar

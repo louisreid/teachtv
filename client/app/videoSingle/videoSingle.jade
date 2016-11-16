@@ -1,11 +1,9 @@
-.container
-	.row
-		.col-lg-12
-			#playerVideo
-			.row
-				.col-lg-4
-					h3.media-heading{{video.youtubeObject.snippet.title}}
-					h4  - {{video.youtubeObject.snippet.channelTitle}}
-					p Views: {{video.youtubeObject.statistics.viewCount}}
-				.col-lg-8
-					h3 {{$scope.video.currentTime}}
+md-button(ng-click='goBack()').md-fab.md-mini.md-primary
+	i.fa.fa-arrow-left
+
+md-content
+	#playerVideo
+	h3.media-heading{{video.youtube.snippet.title}}
+	h4  - {{video.youtube.snippet.channelTitle}}
+	p Views: {{video.youtube.statistics.viewCount}}
+	h3 {{video.currentTime}}

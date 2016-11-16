@@ -18,6 +18,7 @@
   <!-- bower:css -->
   <link rel="stylesheet" href="bower_components/angular-material/angular-material.css" />
   <!-- endbower -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/65f5e76514.js" />
   <!-- endbuild -->
   <!-- build:css({.tmp,client}) app/app.css -->
   <link rel="stylesheet" href="app/app.css">
@@ -26,18 +27,17 @@
   <!-- endbuild -->
 </head>
 
-<body ng-app="teachtvApp">
+<body ng-app="teachtvApp" ng-controller='teachtvAppCtrl' layout='row' ng-cloak=''>
   <!--[if lt IE 7]>
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
   <!-- Add your site or application content here -->
-  <div class='sidenavdemoBasicUsage' ng-controller='AppCtrl' layout='column' style='height:500px;' ng-cloak='' ng-app='MyApp'>
-    <section layout='row' flex=''>
-      <navbar></navbar>
-      <md-content flex='' layout-padding=''>
-        <div ui-view=""></div>
-        <footer></footer>
-    </section>
+  <!-- <navbar></navbar> -->
+  <div layout="column" layout-align="top center" flex=''>
+    <toolbar></toolbar>
+    <md-content layout="column" layout class="container-main">
+      <div ui-view="" flex></div>
+      <footer></footer>
     </md-content>
   </div>
   <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
@@ -77,6 +77,7 @@
   <script src="bower_components/angular-aria/angular-aria.js"></script>
   <script src="bower_components/angular-messages/angular-messages.js"></script>
   <script src="bower_components/angular-material/angular-material.js"></script>
+  <script src="bower_components/angularUtils-pagination/dirPagination.js"></script>
   <!-- endbower -->
   <script src="socket.io-client/socket.io.js"></script>
   <!-- endbuild -->
@@ -86,7 +87,7 @@
   <script src="app/admin/admin.module.js"></script>
   <script src="components/auth/auth.module.js"></script>
   <script src="components/util/util.module.js"></script>
-  <script src="components/auth/auth.service.js"></script>
+  <script src="components/auth/interceptor.service.js"></script>
   <script src="app/admin/admin.controller.js"></script>
   <script src="app/account/account.js"></script>
   <script src="app/admin/admin.router.js"></script>
@@ -97,8 +98,8 @@
   <script src="app/videoSingle/videoSingle.controller.js"></script>
   <script src="app/videoSingle/videoSingle.js"></script>
   <script src="app/account/settings/settings.controller.js"></script>
+  <script src="components/auth/auth.service.js"></script>
   <script src="app/account/login/login.controller.js"></script>
-  <script src="components/auth/interceptor.service.js"></script>
   <script src="components/auth/router.decorator.js"></script>
   <script src="components/auth/user.service.js"></script>
   <script src="components/footer/footer.directive.js"></script>
@@ -109,6 +110,8 @@
   <script src="components/oauth-buttons/oauth-buttons.controller.js"></script>
   <script src="components/oauth-buttons/oauth-buttons.directive.js"></script>
   <script src="components/socket/socket.service.js"></script>
+  <script src="components/toolbar/toolbar.controller.js"></script>
+  <script src="components/toolbar/toolbar.directive.js"></script>
   <script src="app/account/signup/signup.controller.js"></script>
   <script src="components/util/util.service.js"></script>
   <!-- endinjector -->
