@@ -16,6 +16,7 @@
 
 // ** Heroku Postgres settings - from Heroku Environment ** //
 $db = parse_url($_ENV["DATABASE_URL"]);
+// $db = parse_url($_ENV["DATABASE_URL"] ? $_ENV["DATABASE_URL"] : "postgres://wordpress:wordpress@localhost:5432/wordpress");
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
@@ -35,6 +36,8 @@ define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
+
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
